@@ -1,0 +1,38 @@
+.App {
+  text-align: center;
+}
+
+.App-logo {
+  padding-top: 20px;
+  height: 10vmin;
+  pointer-events: none;
+}
+
+.name{
+  font-size:x-large;
+}
+.reg{
+  font-size:medium;
+}
+
+.Container{
+  margin: 200px;
+  margin-left: 450px;
+  height: 300px;
+  width: 600px;
+  /* border: 2px solid; */
+  border-radius: 8px;
+  background-color: #f48d8d;
+}
+
+.App-link {
+  color: #1cb1da;
+}
+
+button{
+  height: 40px;
+  width: 100px;
+  border:0px;
+  background-color: aqua;
+  border-radius: 8px;
+}
